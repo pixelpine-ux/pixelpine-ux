@@ -29,7 +29,9 @@
 
 **Most companies drown in market data but starve for strategic insight.** I build intelligence systems that bridge that gap.
 
-My work combines software engineering, data science, and brand strategy — creating tools that transform scattered market signals into structured competitive intelligence. From brand positioning analysis to market structure modeling, I build systems that turn complexity into clarity.
+My work combines software engineering, data science, and brand strategy — creating tools that transform scattered market signals into structured competitive intelligence. 
+
+From brand positioning analysis to market structure modeling, I build systems that turn complexity into clarity.
 
 **Core Focus:**
 
@@ -94,8 +96,11 @@ My work combines software engineering, data science, and brand strategy — crea
 I'm particularly interested in the intersection of **data science and strategic decision-making** — specifically:
 
 - Algorithmic approaches to brand strategy and market positioning
+
 - Building intelligence systems that scale
+
 - Applying quantitative methods to competitive analysis
+
 - NLP and machine learning for unstructured market data
 
 ---
