@@ -2,7 +2,7 @@
   
 # Mastewal Alemu
 
-### Data Scientist × Strategic Systems Engineer
+### Software Developer × Strategic Systems Engineer
 
 *Building intelligence systems that turn market chaos into strategic clarity*
 
