@@ -11,16 +11,6 @@
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](#)
 [![Email](https://img.shields.io/badge/Email-D08770?style=for-the-badge&logo=gmail&logoColor=white)](mailto:iammastewal@gmail.com)
 
----
-
-### 📊 GitHub Analytics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pixelpine-ux&show_icons=true&theme=nord&hide_border=true&title_color=88C0D0&icon_color=81A1C1&text_color=D8DEE9&bg_color=2E3440&count_private=true&cache_seconds=1800)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pixelpine-ux&theme=nord&hide_border=true&background=2E3440&ring=88C0D0&fire=BF616A&currStreakLabel=D8DEE9&sideLabels=88C0D0)
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=pixelpine-ux&theme=nord&no-frame=true&row=1&column=6&margin-w=15&margin-h=15)
-
 </div>
 
 ---
@@ -41,6 +31,18 @@ From brand positioning analysis to market structure modeling, I build systems th
 **Strategic Analysis** — Brand positioning, competitive intelligence, and market structure modeling
 
 ---
+
+
+---
+
+### 📊 GitHub Analytics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pixelpine-ux&show_icons=true&theme=nord&hide_border=true&title_color=88C0D0&icon_color=81A1C1&text_color=D8DEE9&bg_color=2E3440&count_private=true&cache_seconds=1800)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=pixelpine-ux&theme=nord&hide_border=true&background=2E3440&ring=88C0D0&fire=BF616A&currStreakLabel=D8DEE9&sideLabels=88C0D0)
+
+![Trophy](https://github-profile-trophy.vercel.app/?username=pixelpine-ux&theme=nord&no-frame=true&row=1&column=6&margin-w=15&margin-h=15)
+
 
 ## 💻 Technical Stack
 
