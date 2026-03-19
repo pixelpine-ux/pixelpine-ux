@@ -1,10 +1,15 @@
 # Mastewal Alemu
 
-Software developer interested in data science and strategic analysis.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mastewal-alemu-a65b2a2b9)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:iammastewal@gmail.com)
+
+Software developer interested in data science and strategic analysis on brand intelligence.
 
 ## About
 
 I work with Python to build data pipelines and APIs. Currently exploring the intersection of software engineering and market intelligence.
+
+I'm also interested in how brands position themselves in the market and what makes them stand out.
 
 ## Skills
 
