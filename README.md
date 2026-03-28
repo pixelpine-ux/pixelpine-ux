@@ -13,9 +13,9 @@ I'm also interested in how brands position themselves in the market and what mak
 
 ## Skills
 
-- **Languages:** Python, SQL
+- **Languages:** Python, JavaScript, SQL
 - **Data:** Pandas, NumPy, scikit-learn
-- **Backend:** FastAPI
+- **Backend:** FastAPI, Node.Js
 - **Tools:** Git, Linux, Jupyter
 
 ## Current Focus
