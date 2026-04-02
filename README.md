@@ -3,7 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mastewal-alemu-a65b2a2b9)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:iammastewal@gmail.com)
 
-Software developer interested in data science and strategic analysis on brand intelligence.
+Software developer and product designer interested in data science and strategic analysis on brand intelligence.
 
 ## About
 
