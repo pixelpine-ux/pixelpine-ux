@@ -32,8 +32,6 @@ currently i am working with Python to build data pipelines and APIs. Currently e
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=pixelpine-ux&theme=nord&hide_border=true&background=2E3440&ring=88C0D0&fire=BF616A&currStreakLabel=D8DEE9&sideLabels=88C0D0)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pixelpine-ux&theme=nord&hide_border=true&bg_color=2E3440&color=88C0D0&line=81A1C1&point=D8DEE9)
-
 ## Connect
 
 - [LinkedIn](https://www.linkedin.com/in/mastewal-alemu-a65b2a2b9)
