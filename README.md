@@ -7,7 +7,7 @@ Software developer and product designer interested in data science and strategic
 
 ## About
 
-currently i am working with Python to build data pipelines and APIs. Currently exploring the intersection of software engineering and market intelligence.
+Currrently I am working with Python to build data pipelines and APIs,exploring the intersection of software engineering and market intelligence.
   My projects combine software engineering, data science, and strategic modeling to explore how algorithms and data can power modern brand and market intelligence.
   
 
